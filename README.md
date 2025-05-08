@@ -1,4 +1,4 @@
-# Clutering_z
+# Clustering_z
 Different codes I used to run clustering redshifts calibration.
 I try to make them as user-friendly as possible. Please contact me if you have any question and/or suggestion! You can also contact me to talk about your redshift calibration ideas and projects :) 
 
